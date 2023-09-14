@@ -1,0 +1,35 @@
+#wrap{
+    /* border: 1px solid red; */
+    text-align: center;
+    /* margin-top: 50px; */
+}
+header,
+nav,
+section,
+footer{    
+    margin-bottom: 20px;
+    padding-top:10px;
+    /* padding-top: 10px; */
+}
+header a {
+    text-decoration: none;
+    color: red;
+}
+/* 選單區 */
+
+nav a{
+    color: blueviolet;
+    font-weight: bold;
+    text-decoration: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    border-right: 10px solid red;
+    padding-right: 20px;
+}  
+
+section iframe,
+section img{
+    width: 960px;
+    height: 600px;
+
+}
